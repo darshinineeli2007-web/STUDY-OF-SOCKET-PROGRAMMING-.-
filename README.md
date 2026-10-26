@@ -88,7 +88,7 @@ while True:
     print(s.recv(1024).decode())
     s.send("Acknowledgement Recived".encode())
 ```
-```
+
 ## Output:
 SERVER
 <img width="620" height="170" alt="image" src="https://github.com/user-attachments/assets/df610356-9a7a-4337-a937-90d1c281ed2b" />
