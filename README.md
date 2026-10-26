@@ -76,7 +76,7 @@ while True:
         c.close()
         break;
 ```
-```
+
 CLIENT
 ```
 import socket
